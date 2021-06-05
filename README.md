@@ -1,4 +1,14 @@
-  ### Hello! I'm Nayara Aguilar 👩‍💻
+### Hello everyone! 👋
+  
+My name is Nayara, I'm a software development student currently working at court as legal assistant.
+ 
+### What I've been learning 🤓
+ 
+I've been studying and practicing through projects with technologies such as: JavaScript, Html, CSS, Kotlin, Phyton and UX design.
+
+### Hobbies and interests ✨
+
+I really love drawing (🎨), tasting different coffee beans (☕), videogames (🎮) and taking my pets for a walk in the park (🐾).
 
   
 ![Snake animation](https://github.com/nayyadev/nayyadev/blob/output/github-contribution-grid-snake.svg)
