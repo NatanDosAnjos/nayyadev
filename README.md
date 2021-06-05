@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+### Hello everyone! 👋🏽
   
 My name is Nayara, I'm a software development student currently working at court as legal assistant.
  
